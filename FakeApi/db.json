@@ -1,0 +1,58 @@
+{
+  "listuser": [
+    {
+      "id": 2,
+      "fullname": "Tung",
+      "address": "Nam Dinh",
+      "favourite": "Sleep"
+    },
+    {
+      "id": 3,
+      "fullname": "abc",
+      "address": "Hai Phong",
+      "favourite": "Football"
+    },
+    {
+      "id": 4,
+      "fullname": "Danh Tung",
+      "address": "Ha Noi",
+      "favourite": "Zzz"
+    },
+    {
+      "fullname": "tung kem",
+      "address": "Hai Phong",
+      "favourite": "soccer",
+      "id": 5
+    },
+    {
+      "fullname": "kem kem kem",
+      "address": "Ha Noi",
+      "favourite": "222",
+      "id": 15
+    },
+    {
+      "fullname": "aa",
+      "address": "Hai Phong",
+      "favourite": "222",
+      "id": 17
+    },
+    {
+      "fullname": "sdasd",
+      "address": "Hai Phong",
+      "favourite": "ssss",
+      "id": 18
+    },
+    {
+      "fullname": "aasas",
+      "address": "Ha Noi",
+      "favourite": "sdsdd",
+      "id": 19
+    },
+    {
+      "fullname": "z",
+      "address": "Ha Noi",
+      "favourite": "z",
+      "id": 20
+    }
+  ]
+}
