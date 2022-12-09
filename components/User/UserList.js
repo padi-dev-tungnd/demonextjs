@@ -15,7 +15,7 @@ const UserList = ({ listUsers, handleDeleteUser, handleUpdateUser }) => {
           />
         ))
       ) : (
-        <div>Chua co user nao ...</div>
+        <div>Chua co user nao! ...</div>
       )}
     </div>
   );
