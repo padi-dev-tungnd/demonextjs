@@ -10,7 +10,12 @@ module.exports = {
         barlow: ['"Barlow Condensed"', 'sans-serif']
       },
       colors: {
-        primary: '#16405B'
+        primary: '#16405B',
+        primary2: '#15405B',
+        primary3: '#14405B',
+        primary4: '#13405B',
+        primary5: '#12405B',
+
       }
     },
   },
