@@ -7,12 +7,12 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        barlow: ['"Barlow Condensed"', 'sans-serif']
+        barlow: ['"Barlow Condensed"', "sans-serif"],
       },
       colors: {
-        primary: '#16405B'
-      }
+        primary: "#16405B",
+      },
     },
   },
   plugins: [],
-}
+};

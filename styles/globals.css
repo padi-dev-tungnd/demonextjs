@@ -34,4 +34,12 @@
   .badge {
     @apply absolute top-2 left-2 p-2 min-w-[25%] flex justify-between items-center bg-cyan-50 rounded-md;
   }
+
+  .thTable {
+    @apply px-6 py-3 text-xs font-bold text-left text-white uppercase;
+  }
+
+  .tdTable {
+    @apply px-6 py-3 text-sm text-gray-800 whitespace-nowrap;
+  }
 }
